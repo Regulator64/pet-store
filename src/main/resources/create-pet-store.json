@@ -1,0 +1,8 @@
+{
+  "petStoreName": "Nico's Pet Store",
+  "petStoreAddress": "1234 Doggie Lane",
+  "petStoreCity": "Boise",
+  "petStoreState": "idaho",
+  "petStoreZip" : "83704",
+  "petStorePhone": "208-444-5555"
+}
